@@ -1,6 +1,6 @@
 # Directory Synchronization
 
-This project implements a program that synchronizes two folders: `source_dir` and `target_Dir`. It maintains a full, identical copy of the `source` folder in the `target` folder.
+This project implements a program that synchronizes two folders: `source_dir` and `target_dir`. It maintains a full, identical copy of the `source` folder in the `target` folder.
 
 ## Technologies
 - Python
